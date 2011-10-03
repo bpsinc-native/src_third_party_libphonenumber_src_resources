@@ -12,14 +12,21 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-# Generated from:
-# http://www.itu.int/oth/T020200002E/en [2010-11-01]
-# http://en.wikipedia.org/wiki/+242 [451637896]
+# Translated from fr/269.txt using Freebase and Wikipedia.
 
-2422221|Cuvette
-2422222|Likouala/Sangha
-2422223|Pool
-2422224|Plateaux
-2422225|Bouenza/Lekoumou/Niari
-2422228|Brazzaville
-2422229|Pointe-Noire
+269760|Domoni
+269761|Mutsamudu
+269762|Mohéli
+269763|Moroni
+269767|Mbéni
+269768|Mitsamiouli
+269769|Foumbouni
+269770|Domoni
+269771|Mutsamudu
+269772|Mohéli
+269773|Moroni
+269774|Moroni
+269775|Moroni
+269777|Mbéni
+269778|Mitsamiouli
+269779|Foumbouni

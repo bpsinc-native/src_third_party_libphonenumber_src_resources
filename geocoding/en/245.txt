@@ -12,14 +12,24 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-# Generated from:
-# http://www.itu.int/oth/T020200002E/en [2010-11-01]
-# http://en.wikipedia.org/wiki/+242 [451637896]
+# Translated from pt/245.txt using Freebase and Wikipedia.
 
-2422221|Cuvette
-2422222|Likouala/Sangha
-2422223|Pool
-2422224|Plateaux
-2422225|Bouenza/Lekoumou/Niari
-2422228|Brazzaville
-2422229|Pointe-Noire
+24522|S. Luzia
+24525|Brá
+24531|Mansoa/Manssabá
+24532|Bigene/Bissorã
+24533|Bula/Ingore
+24535|Farim
+24541|Bafatá/Bambadinca
+24551|Gabú
+24552|Sonaco
+24553|Pirada
+24561|Bedanda/Buba/Cacine/Catio/Fulacunda/Tite
+24562|Quebo
+24581|Bolama
+24582|Bubaque
+24583|Caravela
+24584|Uno
+24591|Canchungo
+24592|Cacheu
+24593|S. Domingos

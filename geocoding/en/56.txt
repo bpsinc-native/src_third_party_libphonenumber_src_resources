@@ -12,14 +12,27 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-# Generated from:
-# http://www.itu.int/oth/T020200002E/en [2010-11-01]
-# http://en.wikipedia.org/wiki/+242 [451637896]
+# Translated from es/56.txt with Freebase and Wikipedia.
 
-2422221|Cuvette
-2422222|Likouala/Sangha
-2422223|Pool
-2422224|Plateaux
-2422225|Bouenza/Lekoumou/Niari
-2422228|Brazzaville
-2422229|Pointe-Noire
+562|Santiago
+5632|Valparaíso
+5633|Quillota
+5635|San Antonio
+5641|Concepción
+5642|Chillán
+5643|Los Angeles
+5645|Temuco
+5651|Coquimbo
+5652|Copiapó
+5653|Ovalle
+5655|Antofagasta
+5657|Iquique
+5658|Arica
+5661|Punta Arenas
+5663|Valdivia
+5664|Osorno
+5665|Puerto Montt
+5671|Talca
+5672|Rancagua
+5673|Linares
+5675|Curicó
